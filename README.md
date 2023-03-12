@@ -1,3 +1,3 @@
 # dadjokesgenerator
 
-[Netlify Link] (https://warm-dodol-9fb904.netlify.app/)
+[Netlify Link](https://warm-dodol-9fb904.netlify.app/)
