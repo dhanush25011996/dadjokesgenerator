@@ -1,3 +1,3 @@
 # dadjokesgenerator
 
-[go](http://stackoverflow.com){:target="_blank"}.
+[Netlify Link](https://warm-dodol-9fb904.netlify.app)
